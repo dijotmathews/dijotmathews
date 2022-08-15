@@ -5,7 +5,7 @@
     <samp>SOFTWARE DEVELOPER</samp>
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <a href="#dijomathews">
     <img alt="dijotmathews's total stars" src="https://img.shields.io/github/stars/dijotmathews?label=TOTAL+STARS&style=flat-square" />
   </a>
@@ -15,7 +15,7 @@
   <a href="#dijomathews">
     <img alt="dijotmathews's profile views" src="https://komarev.com/ghpvc/?username=dijotmathews&label=PROFILE+VIEWS&logo=github&style=flat-square" />
   </a>
-</div>
+</div> -->
 
 <!-- Introduction -->
 <h2>:wave: Introduction</h2>
