@@ -33,14 +33,14 @@ Nice to see you here! This is the home of my open-source <a href="https://github
   </a>
 </details>
 
-<details>
+<details open>
   <summary><strong>:hammer_and_wrench: Languages</strong></summary>
   <a href="#zap-stats">
     <img alt="dijotmathews's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijotmathews&langs_count=8&layout=compact&hide_border=true&hide_title=true&bg_color=ffffff" width="375" />
   </a>
 </details>
 
-<details>
+<details open>
   <summary><strong>:fire: Contributions</strong></summary>
   <a href="#zap-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dijotmathews&hide_border=true&background=ffffff" width="450" />
