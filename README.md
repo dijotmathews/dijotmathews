@@ -20,7 +20,7 @@
 <!-- Introduction -->
 <h2>:wave: Introduction</h2>
 
-Hi, I'm Dijo! I'm a software developer based in India. I am passionate about Python, Javascript, Linux and Tennis.
+Hi, I'm Dijo! I'm a software developer based in India. I am passionate about Coding, Linux and Tennis.
 Nice to see you here! This is the home of my open-source <a href="https://github.com/dijotmathews?tab=repositories&sort=stargazers">projects</a>.
 
 <!-- Stats -->
